@@ -1,0 +1,14 @@
+/Users/mac/Documents/CTest/bin/Debug/net9.0/CTest
+/Users/mac/Documents/CTest/bin/Debug/net9.0/CTest.deps.json
+/Users/mac/Documents/CTest/bin/Debug/net9.0/CTest.runtimeconfig.json
+/Users/mac/Documents/CTest/bin/Debug/net9.0/CTest.dll
+/Users/mac/Documents/CTest/bin/Debug/net9.0/CTest.pdb
+/Users/mac/Documents/CTest/obj/Debug/net9.0/CTest.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mac/Documents/CTest/obj/Debug/net9.0/CTest.AssemblyInfoInputs.cache
+/Users/mac/Documents/CTest/obj/Debug/net9.0/CTest.AssemblyInfo.cs
+/Users/mac/Documents/CTest/obj/Debug/net9.0/CTest.csproj.CoreCompileInputs.cache
+/Users/mac/Documents/CTest/obj/Debug/net9.0/CTest.dll
+/Users/mac/Documents/CTest/obj/Debug/net9.0/refint/CTest.dll
+/Users/mac/Documents/CTest/obj/Debug/net9.0/CTest.pdb
+/Users/mac/Documents/CTest/obj/Debug/net9.0/CTest.genruntimeconfig.cache
+/Users/mac/Documents/CTest/obj/Debug/net9.0/ref/CTest.dll
